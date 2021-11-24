@@ -22,4 +22,20 @@ this repo is dedicated to the most glorious 8 characters ever to grace ye termin
 ```
 xargs -n 1
 ```
-it's also a place for stuff that doesn't fit elsewhere. You'd know that if you read the docs it's on page 87,777,649,495,002:line20 of the LISTOPEDIA READMEA (ノಠ益ಠ)ノ彡┻━┻ it contains more pages of markdown than particles in the known universe muahahaha(ノಠ益ಠ)ノ彡┻━┻
+it's also a place for stuff that doesn't fit elsewhere. You'd know that if you read the docs it's on page 87,777,649,495,002:line20 of the LISTOPEDIA READMEA 
+```
+muahahaha (ノಠ益ಠ)ノ彡┻━┻ it contains more pages of markdown 
+                                        
+                                        than particles in the known universe muahahahahahaha  (ノಠ益ಠ)ノ彡┻━┻
+
+                                   ...
+                           
+                           ...
+                           
+           ┳━┳┏━┓┏━┓┏━┓ ︵ /(^.^/) 
+          
+         
+       ( ͝סּ ͜ʖ͡סּ) #log.self(note = " research tax code / max. # of desks can write off as business expense ")   
+            ...
+              ( ͝סּ ͜ʖ͡סּ)   #log.self(note= " research tax code / hobby-loss provision / is desk-flipping hobby covered? ")
+```
