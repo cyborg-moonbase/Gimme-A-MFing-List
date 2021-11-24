@@ -35,7 +35,8 @@ muahahaha (ノಠ益ಠ)ノ彡┻━┻ it contains more pages of markdown
            ┳━┳┏━┓┏━┓┏━┓ ︵ /(^.^/) 
           
          
-       ( ͝סּ ͜ʖ͡סּ) #log.self(note = " research tax code / max. # of desks can write off as business expense ")   
-            ...
-              ( ͝סּ ͜ʖ͡סּ)   #log.self(note= " research tax code / hobby-loss provision / is desk-flipping hobby covered? ")
+ ( ͝סּ ͜ʖ͡סּ) #log.self(note = " research tax code / max. # of desks can write off as business expense ")   
+           
+   ...
+      ( ͝סּ ͜ʖ͡סּ)   #log.self(note= " research tax code / hobby-loss provision / is desk-flipping hobby covered? ")
 ```
